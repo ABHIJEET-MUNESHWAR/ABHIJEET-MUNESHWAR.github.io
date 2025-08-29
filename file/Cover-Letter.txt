@@ -1,0 +1,44 @@
+Hi,
+
+I am writing to express my enthusiastic interest in a role where Generative AI, advanced system design, and LLM integration are core to the product vision. With 13+ years of engineering experience (including 6 years in leadership roles), I bring a unique blend of deep back-end expertise, GenAI innovation, and performance-focused design thinking.
+
+At Cleo, I architected a GenAI-based Anomaly Detection System leveraging Multi-Model MCP Servers, Clients, and RAG pipelines, which improved anomaly detection rates by 60–85%, saving ~$150K annually. I also built a scalable audit log system (1.5 billion log entries/day) integrating LLMs and RAG that saved ~$250K yearly in operational cost.
+
+During my time at DeepIntent, I developed an LLM-powered Co-Pilot that improved campaign delivery by 32%, resulting in $1M+ in campaign savings. I also created an in-house anomaly detection platform using GenAI + MCPs, cutting down losses by ~$200K/year.
+
+My toolbox includes:
+
+LLMOps & GenAI: GPT-4, Claude, RAG, Vector DBs, LangChain, LangGraph, LLM Evaluation, Prompt Orchestration, MCP Servers
+
+System Design: Event-driven systems, Clean architecture, Large-scale distributed systems, Resilient and fault tolerant systems.
+
+Data Structures & Algorithms: 1100+ LeetCode problems solved, Hackerrank Silver medals, system performance tuning
+
+Stack: Java, Spring Boot, Golang, Python, MySQL, Kafka, MongoDB, PostgreSQL, BigQuery, Redis, GraphQL, Apache Airflow, AWS, GCP, Docker, Kubernetes, Terraform, Graphana, Prometheus.
+
+I thrive in product-first engineering cultures and am passionate about building AI-native systems that are scalable, intelligent, and cost-efficient.
+
+Below are some of my social website links:
+
+1) Portfolio:
+http://abhijeet-muneshwar.github.io/
+
+2) GitHub:
+https://github.com/ABHIJEET-MUNESHWAR
+
+3) LinkedIn:
+https://www.linkedin.com/in/abhijeet-muneshwar/
+
+4) LeetCode:
+https://leetcode.com/u/Abhijeet-Muneshwar/
+
+5) Stack Overflow:
+http://stackoverflow.com/users/1428052/abhijeet-ashok-muneshwar
+
+I would be thrilled to explore how my experience in GenAI systems and distributed system designs can bring value to your organization. Thank you for your time and consideration.
+
+Thank you & Regards,
+Abhijeet Ashok Muneshwar,
+Principal Software Engineer - 1,
+Cleo
+(Mobile No. : +91-8618326380)
