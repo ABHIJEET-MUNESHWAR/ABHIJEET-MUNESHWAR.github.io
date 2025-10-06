@@ -14,7 +14,9 @@ System Design: Event-driven systems, Clean architecture, Large-scale distributed
 
 Data Structures & Algorithms: 1100+ LeetCode problems solved, Hackerrank Silver medals, system performance tuning
 
-Stack: Java, Spring Boot, Golang, Python, MySQL, Kafka, MongoDB, PostgreSQL, BigQuery, Redis, GraphQL, Apache Airflow, AWS, GCP, Docker, Kubernetes, Terraform, Graphana, Prometheus.
+Back-End: Java, Spring Boot, Golang, Python, FlastAPI, Node.js, MySQL, Kafka, MongoDB, PostgreSQL, BigQuery, Redis, GraphQL, Apache Airflow, Spark, Flink, Beam, AWS, GCP, Docker, Kubernetes, Terraform, ELK, Graphana, Prometheus.
+
+Front-End: JavaScript, TypeScript, React, Next.js
 
 I thrive in product-first engineering cultures and am passionate about building AI-native systems that are scalable, intelligent, and cost-efficient.
 
