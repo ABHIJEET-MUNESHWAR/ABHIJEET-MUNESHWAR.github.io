@@ -8,6 +8,8 @@ During my time at DeepIntent, I developed an LLM-powered Co-Pilot that improved 
 
 My toolbox includes:
 
+Web3: Solana Programs, dApps, Wallet Integration (Phantom, MetaMask), CCTP Protocol Integration, PDAs, CPI, RPC interaction, transaction signing, Borsh & Zero-Copy Serialization, On-Chain Security Auditing, PDA Strategy & Security, DeFi & Token Standards
+
 LLMOps & GenAI: GPT-4, Claude, RAG, Vector DBs, LangChain, LangGraph, LLM Evaluation, Prompt Orchestration, MCP Servers
 
 System Design: Event-driven systems, Clean architecture, Large-scale distributed systems, Resilient and fault tolerant systems.
